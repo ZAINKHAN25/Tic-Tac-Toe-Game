@@ -30,6 +30,7 @@ Welcome to the Tic Tac Toe Game! This project is a web-based implementation of t
 ![Welcome](https://github.com/ZAINKHAN25/Tic-Tac-Toe-Game/assets/121414309/759e5cb9-bbe3-4610-b505-ecdbe87b404b)
 
 2. On the game board, take turns clicking on empty cells to place your "X" or "O."
+
 ![Main](https://github.com/ZAINKHAN25/Tic-Tac-Toe-Game/assets/121414309/4562c3c4-b420-45e8-9265-3b4c14fccc5e)
 
 
