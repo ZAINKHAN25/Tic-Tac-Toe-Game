@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.">
+    <link rel="stylesheet" href="style.css">
+    <title>Tic Tac Toe Game</title>
+</head>
+
+<body>
+    <div class="game-wrapper none">
+
+        <h1>Tic Tac Toe Game</h1>
+        <h2 id="resultdiv"></h2>
+        <div class="maindiv">
+            <div class="row" id="1line">
+                <div class="singlecol border-left border-top" id="oneline1"></div>
+                <div class="singlecol border-top" id="oneline2"></div>
+                <div class="singlecol border-right border-top" id="oneline3"></div>
+            </div>
+            <div class="row" id="2line">
+                <div class="singlecol border-left" id="twoline1"></div>
+                <div class="singlecol" id="twoline2"></div>
+                <div class="singlecol border-right" id="twoline3"></div>
+            </div>
+            <div class="row" id="3line">
+                <div class="singlecol border-left border-bottom" id="threeline1"></div>
+                <div class="singlecol border-bottom" id="threeline2"></div>
+                <div class="singlecol border-right border-bottom" id="threeline3"></div>
+            </div>
+        </div>
+    </div>
+    <div class="second-page">
+        <h2 class="headingofsecondpage">Welcome to the Tic Tac Toe Game</h2>
+        <button class="btn-of-second-page">Start The Game</button>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>
