@@ -43,7 +43,7 @@ function handleCellClick() {
     const cell = this;
 
     if (cell.innerHTML == "") {
-        cell.innerHTML = `${playerTurn ? "X" : "0"}`;
+        cell.innerHTML = `${playerTurn ? "<span class='red'>X</span>" : "<span class='white'>0</span>"}`;
         playerTurn = !playerTurn;
         playerturnfoo();
         checkForWinner();
