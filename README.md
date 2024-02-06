@@ -27,16 +27,15 @@ Welcome to the Tic Tac Toe Game! This project is a web-based implementation of t
 
 1. Open the game in your web browser. Click the "Start The Game" button on the Welcome page.
 
-![Home-Page](https://github.com/ZAINKHAN25/Tic-Tac-Toe-Game/assets/121414309/bdf5077a-6e80-4ee6-b2ff-c26b4b16eb56)   
-
+![Welcome](https://github.com/ZAINKHAN25/Tic-Tac-Toe-Game/assets/121414309/759e5cb9-bbe3-4610-b505-ecdbe87b404b)
 
 2. On the game board, take turns clicking on empty cells to place your "X" or "O."
+![Main](https://github.com/ZAINKHAN25/Tic-Tac-Toe-Game/assets/121414309/4562c3c4-b420-45e8-9265-3b4c14fccc5e)
 
-![Main-Page](https://github.com/ZAINKHAN25/Tic-Tac-Toe-Game/assets/121414309/7961cf11-98c9-44ab-a38a-06993d17142f)
 
 3. The game will indicate whose turn it is and display the winner or a draw when the game ends. To restart the game, click the "Restart The Game" button on the Welcome page.
 
-![Win-Page](https://github.com/ZAINKHAN25/Tic-Tac-Toe-Game/assets/121414309/76b80042-a5dd-4c6d-8509-20ee4a61bdb5)
+![Result](https://github.com/ZAINKHAN25/Tic-Tac-Toe-Game/assets/121414309/fbadeb14-b0b8-4a09-9f79-72fe917309d9)
 
 
 
