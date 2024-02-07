@@ -49,7 +49,7 @@ There is no specific installation required for this game. Simply open the HTML f
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-game.git
+git clone https://github.com/ZAINKHAN25/Tic-Tac-Toe-Game/.git
 ```
 
 2. Navigate to the project directory:
